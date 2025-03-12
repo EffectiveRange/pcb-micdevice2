@@ -4676,15 +4676,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 40.64 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "12859323-305e-411c-b624-b5b895bc7fa6")
 		)
@@ -4781,15 +4772,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 113.03 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4f6574df-492e-40bb-afef-2040e5353517")
 		)
@@ -4850,6 +4832,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 177.8 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "61300621121"
 			(at 177.8 86.36 0)
 			(effects
 				(font
@@ -5287,15 +5278,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/murata-electronics/GRM188R72A104KA35D/702549"
-			(at 121.92 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 121.92 76.2 0)
 			(effects
 				(font
@@ -5835,15 +5817,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 64.77 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6f8fa6b4-4919-40b3-ab17-d9264abd2172")
 		)
@@ -6066,15 +6039,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERJ-2GEJ103X/146735"
-			(at 62.23 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 62.23 152.4 0)
 			(effects
 				(font
@@ -6374,15 +6338,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 64.77 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "d7aff6de-06bb-4d22-97be-92d46611b454")
 		)
@@ -6473,15 +6428,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERJ-2GEJ103X/146735"
-			(at 50.8 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 50.8 152.4 0)
 			(effects
 				(font
@@ -6727,15 +6673,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 74.93 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "63bdc6eb-7617-4944-ae7c-e759a239c2b1")
 		)
@@ -6954,15 +6891,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERA-2AEB512X/1706022"
-			(at 64.77 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 64.77 118.11 0)
 			(effects
 				(font
@@ -7460,6 +7388,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "61301021121"
+			(at 181.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "3c17f627-8abc-4bf1-8ecd-3429380c7624")
 		)
@@ -7645,15 +7582,6 @@
 			)
 		)
 		(property "Note" "TH"
-			(at 242.57 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 242.57 54.61 0)
 			(effects
 				(font

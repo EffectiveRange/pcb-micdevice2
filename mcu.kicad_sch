@@ -3682,15 +3682,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 60.96 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "aafb369e-7567-49fd-8727-3d1829fc73b7")
 		)
@@ -3798,15 +3789,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERJ-2RKF1004X/79728"
-			(at 180.34 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 180.34 99.06 0)
 			(effects
 				(font
@@ -3979,15 +3961,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 193.04 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5442b748-51be-47f9-9fbb-ea2c739e75b3")
 		)
@@ -4077,15 +4050,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/murata-electronics/GRM188R72A104KA35D/702549"
-			(at 83.82 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 83.82 90.17 0)
 			(effects
 				(font
@@ -4191,15 +4155,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 73.66 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2f3b2266-d1b8-4eec-80a0-4fea3f7c76f9")
 		)
@@ -4289,15 +4244,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/texas-instruments/SN74CBTLV3257RSVR/3830019?s=N4IgTCBcDaIMoDkDsAWAwgIQCoBkBqAzGAKxIBKceZIAugL5A"
-			(at 222.25 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 222.25 58.42 0)
 			(effects
 				(font
@@ -4445,15 +4391,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 76.2 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "dd5b65ed-457c-4866-b9ea-c566b0e19993")
 		)
@@ -4551,15 +4488,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 77.47 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "266d7882-1845-4823-a91a-d6e677a5c5bb")
 		)
@@ -4649,15 +4577,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERJ-2RKF1004X/79728"
-			(at 201.93 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 201.93 91.44 0)
 			(effects
 				(font
@@ -4822,15 +4741,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/murata-electronics/GRM188R72A104KA35D/702549"
-			(at 41.91 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 41.91 91.44 0)
 			(effects
 				(font
@@ -5130,15 +5040,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 166.37 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "D1"
 			(uuid "2c820170-eaf3-4446-beda-572f516546f7")
 		)
@@ -5267,15 +5168,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 153.67 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "24b4a29d-3cc3-4904-bcd3-c54094b8eff5")
 		)
@@ -5365,15 +5257,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.hu/en/products/detail/panasonic-electronic-components/ERJ-2GEJ103X/146735"
-			(at 67.31 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 67.31 34.29 0)
 			(effects
 				(font
@@ -5538,15 +5421,6 @@
 			)
 		)
 		(property "SupplierLink" "https://hu.mouser.com/ProductDetail/Microchip-Technology/PIC18F16Q20-I-REB?qs=HoCaDK9Nz5eaDMO98xm5EQ%3D%3D"
-			(at 67.31 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 67.31 119.38 0)
 			(effects
 				(font
@@ -6176,15 +6050,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 33.02 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ca74165b-9254-4321-b9ad-fafe8dd9b44b")
 		)
@@ -6347,15 +6212,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 72.39 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "8918ad75-d1e9-4330-a14f-19b5de0b1816")
 		)
@@ -6453,15 +6309,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufaturer" ""
-			(at 82.55 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6b245f27-1935-4156-a2d1-6fb09cd71387")
 		)
@@ -6551,15 +6398,6 @@
 			)
 		)
 		(property "SupplierLink" "https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA475KE15D/3900468"
-			(at 53.34 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufaturer" ""
 			(at 53.34 91.44 0)
 			(effects
 				(font
