@@ -4813,7 +4813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical_SMD"
 			(at 177.8 86.36 0)
 			(effects
 				(font
@@ -4840,7 +4840,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "61300621121"
+		(property "MPN" "PHDD-SS006G1ABOGE-B005"
 			(at 177.8 86.36 0)
 			(effects
 				(font
@@ -5063,7 +5063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x05_P2.00mm_Vertical_SMD"
 			(at 243.84 95.25 0)
 			(effects
 				(font
@@ -5090,7 +5090,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "61301021121"
+		(property "MPN" "PHDD-SS010G1ABOGE-B005"
 			(at 243.84 95.25 0)
 			(effects
 				(font
@@ -7361,7 +7361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x05_P2.00mm_Vertical_SMD"
 			(at 181.61 52.07 0)
 			(effects
 				(font
@@ -7388,7 +7388,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "61301021121"
+		(property "MPN" "PHDD-SS010G1ABOGE-B005"
 			(at 181.61 52.07 0)
 			(effects
 				(font
@@ -7527,7 +7527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_2x06_P2.00mm_Vertical_SMD"
 			(at 242.57 54.61 0)
 			(effects
 				(font
@@ -7554,7 +7554,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "61301221121"
+		(property "MPN" "NRPN062MAMS-RC"
 			(at 242.57 54.61 0)
 			(effects
 				(font
